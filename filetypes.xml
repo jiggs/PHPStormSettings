@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="mapbox-rect-draw" type="JavaScript" />
+      <mapping pattern="mapbox-rect-draw.js" type="PLAIN_TEXT" />
       <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern="floorplans_dumpphp" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
